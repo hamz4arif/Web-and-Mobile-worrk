@@ -1,0 +1,35 @@
+
+body{text-align: center;}
+ins{color: #6b5acd;}
+#title{
+    font-size: 20px;
+}
+form{
+    
+    padding: 1px 10px 1px 10px;
+    text-align: left;
+    width: 350px;
+  
+}
+#form{background-color: #6b5acd;
+width: 650px;
+margin: 20px auto;
+}
+
+
+.after{
+    font-size: 15px;
+}
+td{color: white;
+}
+.date{background-color: white;
+color: black;
+font-size: 14px;
+padding: 1px 1px 1px 1px;}
+
+.button{text-align: center;
+align-items: center;}
+#qualification{
+    width: 50px;
+}
+#qualification{width: 20px;}
